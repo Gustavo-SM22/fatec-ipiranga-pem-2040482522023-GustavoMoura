@@ -2,7 +2,8 @@
 * -Nome: Gustavo Silva De Moura - RA:2040482522023
   -Fatec Ipiranga - Ads Vespertino 
   -Atividade PEM - Aula 3 - Dia 27/02/2025
-  -Objetivo: Criar um programa que calcular quantas palavras possui determinada frase. *           
+  -Objetivo: Desenvolva um programa de cadastro de produtos utilizando a linguagem C. O programa
+deve gerenciar um array de nomes de produtos (strings).*           
   *-------------------------------------------*/
 #include <stdio.h>
 #include <string.h>
