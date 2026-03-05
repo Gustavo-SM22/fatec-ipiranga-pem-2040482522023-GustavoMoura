@@ -129,7 +129,6 @@ int main() {
                 break;
 
             case 0:
-                printf("Encerrando programa...\n");
                 break;
 
             default:
